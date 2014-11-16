@@ -6,7 +6,7 @@ John a lancé EntreChat, le premier réseau social pour chats. Tout va bien, son
 Il utilise Azure pour scaler et il déploie en continue.
 Maintenant, il veut offrir une nouvelle expérience en créant une application mobile.
 
-*Retrouvez [ici][https://github.com/emargraff/thejohnstory/blob/master/thejohnstory.md] l'histoire complète*
+*Retrouvez [ici]{https://github.com/emargraff/thejohnstory/blob/master/thejohnstory.md} l'histoire complète*
 
 John choisi sa techno
 ---------------------
