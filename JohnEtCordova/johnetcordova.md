@@ -23,7 +23,10 @@ Après quelques jours de développement:
 John: "On m'a parlé d'un outil dans Visual Studio qui permet de faire les choses plus simplement, tu peux regarder ?"*
 
 Un peu plus tard :
-*Développeur: "John, c'est énorme ! Ca installe et maintient tout pour toi, regarde la structure dans VS"*
+*Dévelopeur: "John, c'est énorme ! Ca installe et maintient tout pour toi, regarde la structure dans VS"*
+![](https://github.com/emargraff/thejohnstory/blob/master/JohnEtCordova/images/vsarbo.PNG)
 
+*Dévelopeur: "Et surtout, c'est super simple de modifier les plugins"*
+![](https://github.com/emargraff/thejohnstory/blob/master/JohnEtCordova/images/plugins.PNG)
 
 
