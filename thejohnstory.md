@@ -1,5 +1,8 @@
 thejohnstory
 ============
+Le démarrage de toutes choses
+-----------------------------
+
 John est quelqu'un d'extraordinaire.
 Il a une imagination débordante !
 D'ailleurs il a une idée ...
@@ -9,6 +12,9 @@ Il décide de créer EntreChats. Oui, oui : le premier réseau social pour Chats
 
 Il démarre avec un ami, qu'il convainc pendant un barbecue.
 Ils décident d'utiliser le meilleur outil pour l'agilité, un tableau blanc et des post-its.
+
+Un nouveau rejoint l'aventure
+-----------------------------
 
 Le projet démarre bien, le museau à oreilles fonctionne, les chats arrivent sur la plateforme. 
 John a besoin d'aide.
