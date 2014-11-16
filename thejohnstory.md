@@ -27,5 +27,5 @@ Suite de l'histoire
 -------------------
 * John met en place des outils plus poussés en agilité
 * John veut un site plus scalable
-* [John met décide de créer une application mobile](https://github.com/emargraff/thejohnstory/blob/master/thejohnstory.md)
+* [John met décide de créer une application mobile](https://github.com/emargraff/thejohnstory/blob/master/JohnEtCordova/johnetcordova.md)
 * John veut prévoir les besoins des chats (ndlr: Machine Learning)
